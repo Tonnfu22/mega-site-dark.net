@@ -11,10 +11,10 @@
   #Имя для ld-json разметки
   name: MEGA
   #Доменное имя без http|https (!!!!!ТОЛЬКО ДОМЕН, БЕЗ УКАЗАНИЯ ПОДДОМЕНА!!!!!)
-  domain: site-mega-darknet.net
+  domain: mega-site-dark.net
   #URL сайта (ВАЖНО!!! Этот же url !!!ОБЯЗАТЕЛЬНО!!! необходимо указать в файле _config.yml в корне проекта, иначе sitmap.xml будет сформирован неправильно!) 
   #с http|https (если сайт на поддомене, указываем поддомен)
-  url: https://site-mega-darknet.net
+  url: https://mega-site-dark.net
   #Путь к файлу логотипа, для соцсетей
   logo: /assets/images/ava.webp
   #Путь к Favicon

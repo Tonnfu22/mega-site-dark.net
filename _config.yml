@@ -5,13 +5,11 @@ defaults:
     values:
       image: true
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mega-site-dark.net" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-name: prelend
-title: "Список даркнет-площадок" # the name of your site, e.g. ACME Corp.
+name: 
+title: # the name of your site, e.g. ACME Corp.
 data_dir: _data
-mega_dir: mega
-bs_dir: bs
 include:
   - sitemap.xml
   - robots.txt

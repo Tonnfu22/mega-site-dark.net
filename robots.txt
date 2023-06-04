@@ -3,6 +3,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mega-darknet-marketplace.net/sitemap.xml
+Sitemap: https://mega-site-dark.net/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
