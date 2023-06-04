@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/Cookie-Policy.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/Intellectual-Property-Notice.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/Privacy-Policy.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/TERMS-AND-CONDITIONS.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/bs/go.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/html/mega/go.html</loc>
+<lastmod>2023-05-14T02:57:50+02:00</lastmod>
+</url>
+</urlset>
