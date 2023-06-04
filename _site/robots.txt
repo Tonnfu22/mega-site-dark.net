@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Allow: /
+
+Sitemap: https://mega-darknet-marketplace.net/sitemap.xml
+# ---------------------------
+# END YOAST BLOCK

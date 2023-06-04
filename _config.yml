@@ -1,0 +1,40 @@
+builder: jekyll
+defaults:
+  - scope:
+      path: "assets/mega_webp"
+    values:
+      image: true
+
+markdown: kramdown
+
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+name: prelend
+title: "Список даркнет-площадок" # the name of your site, e.g. ACME Corp.
+data_dir: _data
+mega_dir: mega
+bs_dir: bs
+include:
+  - sitemap.xml
+  - robots.txt
+  - _header
+plugins:
+  - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-admin
+  - jekyll-responsive-image
+responsive_image:
+  sources:
+    - format: webp
+      width: 200
+      sizes: "(max-width: 640px) 100vw, 200px"
+    - format: webp
+      width: 320
+      sizes: 320w
+    - format: webp
+      width: 640
+      sizes: 640w
+    - format: webp
+      width: 1024
+      sizes: 1024w
